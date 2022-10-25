@@ -84,8 +84,8 @@
       "id": "10",
       "name": "Redux",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/800px-Redux_Logo.png?20180429170339",
-      "instructor":"Stephen Grider",
-      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
+      "instructor":"Maximilian Schwarzmüller",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
       "details":"Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to (and inspired by) Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark. Since mid-2016, the primary maintainers are Mark Erikson and Tim Dorr.Redux is a small library with a simple, limited API designed to be a predictable container for application state. It operates in a similar fashion to a reducing function, a functional programming concept.Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps.",
       "price":"$14"
     },
@@ -109,6 +109,77 @@
     },
     {
       "id": "13",
+      "name": "Python",
+      "image_url": "https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png",
+      "instructor":"Qaifi Khan",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/47000136_b4e9_2.jpg",
+      "details":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected.It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.Python consistently ranks as one of the most popular programming languages.",
+      "price":"$14"
+    },
+    {
+      "id": "14",
+      "name": "Typescript",
+      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/typescript.jpg",
+      "instructor":"Anthony Alicea",
+      "instructor_img_url":"An open-source programming language introduced by Microsoft in 2012, Typescript is one of the most wanted programming languages for web development according to GitHub. It is similar to JavaScript in syntax and semantics and is often called JavaScript++. Being more powerful than JavaScript, Typescript supports the development of enterprise-level applications with large codebases.",
+      "price":"$14"
+    },
+    {
+      "id": "15",
+      "name": "PHP",
+      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/php.jpg",
+      "instructor":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+      "details":"PHP or Hypertext Preprocessor is an open-source scripting language used for backend development. It is mostly used for developing dynamic, data-heavy websites and is an interpreted language. It is one of the most popular web page languages, and frameworks like Drupal and WordPress make use of PHP.It is supported by many third-party extensions like .NET, MySQL, and Apache.It can output images, PDF, text, animations, and HTML.It is compatible with cloud services.",
+      "price":"$14"
+    },
+    {
+      "id": "16",
+      "name": "C#",
+      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/C-1.png",
+      "instructor":"Qaifi Khan",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/47000136_b4e9_2.jpg",
+      "details":"C# (C Sharp) is an object-oriented programming language developed by Microsoft. It was originally developed for the .NET framework to build Windows applications. Today it is extensively used in backend development, game development, and mobile app development. It can be used not just on Windows, but also on Android, Linux, and iOS platforms-making it one of the best website coding languages in 2022.It has a strong memory backup facility and avoids memory leaks.It is equipped with a rich set of libraries enabling faster development.It is the only language used by Windows Presentation Foundation (WPF)",
+      "price":"$14"
+    },
+    {
+      "id": "17",
+      "name": "Ruby Rails",
+      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/ruby-rails-1.png",
+      "instructor":"Anthony Alicea",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/2467626_f2e0_3.jpg",
+      "details":"Ruby is a popular backend web development language that supports procedural, functional, and object-oriented programming. It is one of the most recommended languages for beginners to learn. Combined with the Ruby on Rails framework, the language is used for web development extensively.It supports various Graphical User Interface (GUI) tools.Favors all major platforms like Windows, Mac, and Linux.Has prominent features like automatic garbage collection, centralized package management, custom dispatch behavior, etc.",
+      "price":"$14"
+    },
+    {
+      "id": "18",
+      "name": "Golang",
+      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/golang.png",
+      "instructor":"Maximilian Schwarzmüller",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+      "details":"Golang or Go is an open-source programming language developed at Google in 2007. It is similar to C in syntax and allows for the development of efficient and secure web applications. Go is ideal for network programming, developing data pipelines, and machine learning packages.It is equipped with inbuilt testing tools,supports multithreading and can execute several processes concurrently.It has excellent memory safety features like garbage collection for automatic memory management",
+      "price":"$14"
+    },
+    {
+      "id": "19",
+      "name": "Scala",
+      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2022/10/scala.png",
+      "instructor":"Anthony Alicea",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/2467626_f2e0_3.jpg",
+      "details":"Scala is grouped in the Java family and is one of the latest additions to it. It has all the features of Java plus some additions which help to overcome some of the cons of Java. Scala is a great choice for developing data analytics solutions.Supports concurrent programming and execution of procedures in parallel.It has great IDE support.Highly functional programming with better code quality",
+      "price":"$14"
+    },
+    {
+      "id": "20",
+      "name": "Objective C",
+      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/objective-c.png",
+      "instructor":"Qaifi Khan",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/47000136_b4e9_2.jpg",
+      "details":"Objective C or C is a simple and general-purpose language that was developed in 1972. It is a popular language and often one of the first choices of programmers who are beginning to step into the development domain. Objective C is majorly used to code for the iOS operating system.It Supports dynamic typing and therefore has excellent flexibility,Used with Cocoa or Cocoa Touch framework,Supports dynamic memory allocation.",
+      "price":"$14"
+    },
+    {
+      "id": "21",
       "name": "All"
     }
   ]
