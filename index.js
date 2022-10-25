@@ -10,18 +10,26 @@ const categories = require('./Data/Categories.json');
 const courses = require('./Data/Courses.json');
 
 app.get('/', (req, res) => {
-  res.send('Course API Running.')
+  res.send('Course API Running.');
 })
 
 app.get('/categories', (req, res) => {
   res.send(categories);
 })
-app.get('/courses/:id', (req, res) => {
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    const categoryNews = courses.filter(course => course.id === id);
+    res.send(categoryNews);
+})
+app.get('/allcourses', (req, res) => {
+  res.send(courses);
+})
+app.get('/course/:id', (req, res) => {
     const id = req.params.id;
     const particularCourse = courses.find(course => course.id === id);
     res.send(particularCourse);
 })
 
 app.listen(port, () => {
-  console.log(`Course API Running ${port}`)
+  console.log(`Course API Running ${port}`);
 })
