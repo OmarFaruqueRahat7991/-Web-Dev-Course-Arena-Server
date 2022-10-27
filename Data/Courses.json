@@ -1,123 +1,137 @@
 [
     {
-      "id": "01",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
       "name": "Javascript",
       "image_url": "https://i.pinimg.com/736x/86/a9/d2/86a9d2cf24d7950adad2ee6f49ad4b1e.jpg",
       "instructor":"Arkadiusz Włodarczyk",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/621716_0514_3.jpg",
-      "details":"JavaScript,often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on user's devices.JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.",
+      "details":"JavaScript,often abbreviated as JS, is a programming language that is one of the core technologies of the World W_ide Web, alongs_ide HTML and CSS. As of 2022, 98% of websites use JavaScript on the client s_ide for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on user's devices.JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system prov_ides JavaScript APIs for I/O.JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.",
       "price":"$14"
     },
     {
-      "id": "02",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "01",
       "name": "ReactJS",
       "image_url": "https://reactjs.org/logo-og.png",
       "instructor":"Qaifi Khan",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/47000136_b4e9_2.jpg",
-      "details":"React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.React adheres to the declarative programming paradigm. Developers design views for each state of an application, and React updates and renders components when data changes. This is in contrast with imperative programming.React code is made of entities called components. These components are reusable and must be formed in the SRC folder following the Pascal Case as its naming convention (capitalize camelCase). Components can be rendered to a particular element in the DOM using the React DOM library. When rendering a component, one can pass the values between components through props.",
+      "details":"React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of indiv_idual developers and companies.React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-s_ide functionality.React adheres to the declarative programming paradigm. Developers design views for each state of an application, and React updates and renders components when data changes. This is in contrast with imperative programming.React code is made of entities called components. These components are reusable and must be formed in the SRC folder following the Pascal Case as its naming convention (capitalize camelCase). Components can be rendered to a particular element in the DOM using the React DOM library. When rendering a component, one can pass the values between components through props.",
       "price":"$14"
     },
     {
-      "id": "03",
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "01",
       "name": "AngularJS",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png",
       "instructor":"Anthony Alicea",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/2467626_f2e0_3.jpg",
-      "details":"AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations. It aimed to simplify both the development and the testing of such applications by providing a framework for client-side model view controller (MVC) and model view viewmodel (MVVM) architectures, along with components commonly used in web applications and progressive web applications.AngularJS was used as the frontend of the MEAN stack, that consisted of MongoDB database, Express.js web application server framework, AngularJS itself (or Angular), and Node.js server runtime environment.As of January 1, 2022, Google no longer updates AngularJS to fix security, browser compatibility, or jQuery issues.The Angular team recommends upgrading to Angular (v2+) as the best path forward, but they also provided some other options.",
+      "details":"AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of indiv_iduals and corporations. It aimed to simplify both the development and the testing of such applications by prov_iding a framework for client-s_ide model view controller (MVC) and model view viewmodel (MVVM) architectures, along with components commonly used in web applications and progressive web applications.AngularJS was used as the frontend of the MEAN stack, that consisted of MongoDB database, Express.js web application server framework, AngularJS itself (or Angular), and Node.js server runtime environment.As of January 1, 2022, Google no longer updates AngularJS to fix security, browser compatibility, or jQuery issues.The Angular team recommends upgrading to Angular (v2+) as the best path forward, but they also prov_ided some other options.",
       "price":"$14"
     },
     {
-      "id": "04",
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "category_id": "01",
       "name": "Vue.js",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png",
-      "instructor":"Stephen Grider",
+      "instructor":"Stephen Gr_ider",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
       "details":"Vue.js (commonly referred to as Vue; pronounced view) is an open-source model view model front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members.Vue.js features an incrementally adaptable architecture that focuses on declarative rendering and component composition. The core library is focused on the view layer only.Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages.Vue.js allows for extending HTML with HTML attributes called directives.The directives offer functionality to HTML applications, and come as either built-in or user defined directives.Vue was created by Evan You after working for Google using AngularJS in several projects. He later summed up his thought process: I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight. The first source code commit to the project was dated July 2013, and Vue was first released the following February, in 2014.Version names are often derived from manga and anime, most of which are within the science fiction genre.",
       "price":"$14"
     },
     {
-      "id": "05",
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "03",
       "name": "Git",
       "image_url": "https://git-scm.com/images/logos/1color-lightbg@2x.png",
       "instructor":"Jason Taylor",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/5341724_4617_2.jpg",
-      "details":"This course is designed to be a comprehensive approach to Git, which means no prior knowledge or experience is required but students will emerge at the end with a very solid understanding and hands-on experience with Git and related source control concepts.Course Introduction and Overview provides an introduction to this course and the Git source control system and sets the stage for the rest of the course.In Basic Commands, we walk through all the foundational commands needed to start a new project managed by Git (or enable Git for an existing project) all the way through making commits, including common file operations like moving and deleting files. We also cover how to exclude the wrong files from accidentally being committed and how to review your repository's history.",
+      "details":"This course is designed to be a comprehensive approach to Git, which means no prior knowledge or experience is required but students will emerge at the end with a very sol_id understanding and hands-on experience with Git and related source control concepts.Course Introduction and Overview prov_ides an introduction to this course and the Git source control system and sets the stage for the rest of the course.In Basic Commands, we walk through all the foundational commands needed to start a new project managed by Git (or enable Git for an existing project) all the way through making commits, including common file operations like moving and deleting files. We also cover how to exclude the wrong files from acc_identally being committed and how to review your repository's history.",
       "price":"$14"
     },
     {
-      "id": "06",
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "category_id": "01",
       "name": "Ember.js",
       "image_url": "https://upload.wikimedia.org/wikipedia/en/6/69/Ember.js_Logo_and_Mascot.png",
       "instructor":"Stone River eLearning",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/214757_152e_9.jpg",
-      "details":"Ember.js is an open-source JavaScript web framework that utilizes a component-service pattern. It allows developers to create scalable single-page web applications by incorporating common idioms, best practices, and patterns from other single-page-app ecosystem patterns into the framework.Ember is used on many websites including HashiCorp, DigitalOcean, Apple Music, Square, Inc., Intercom, Discourse, Groupon, LinkedIn, Live Nation, Ghost, Nordstrom, and Twitch.Although primarily considered a framework for the web, it is also possible to build desktop and mobile applications with Ember when utilizing a hybrid app pattern.The most notable example of an Ember desktop application is Apple Music, a feature of the iTunes desktop application.The Ember trademark is owned by Tilde Inc.",
+      "details":"Ember.js is an open-source JavaScript web framework that utilizes a component-service pattern. It allows developers to create scalable single-page web applications by incorporating common _idioms, best practices, and patterns from other single-page-app ecosystem patterns into the framework.Ember is used on many websites including HashiCorp, DigitalOcean, Apple Music, Square, Inc., Intercom, Discourse, Groupon, LinkedIn, Live Nation, Ghost, Nordstrom, and Twitch.Although primarily cons_idered a framework for the web, it is also possible to build desktop and mobile applications with Ember when utilizing a hybr_id app pattern.The most notable example of an Ember desktop application is Apple Music, a feature of the iTunes desktop application.The Ember trademark is owned by Tilde Inc.",
       "price":"$14"
     },
     {
-      "id": "07",
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "category_id": "01",
       "name": "Meteor",
       "image_url": "https://anonyfox.com/blog/the-renaissance-of-meteor-js/meteor-js-logo.jpg",
       "instructor":"Dr Matthew Yee-King",
       "instructor_img_url":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5d/aab72790ec354bad9b39f1d6a8a5f1/yee-king_bbc_session.png?auto=format%2Ccompress&dpr=1&w=200&h=200",
-      "details":"Meteor, or MeteorJS, is a partly proprietary, mostly free and open-source isomorphic JavaScript web framework written using Node.js. Meteor allows for rapid prototyping and produces cross-platform (Android, iOS, Web) code. The server-side MongoDB program is the only proprietary component of Meteor and is part of the Meteor download bundle. It is possible to use Meteor without using the server-side MongoDB. It uses the Distributed Data Protocol and a publish–subscribe pattern to automatically propagate data changes to clients without requiring the developer to write any synchronization code. On the client, Meteor can be used with any popular front-end JS framework, Vue, React, Svelte, Angular, or Blaze.Meteor is developed by Meteor Software. The startup was incubated by Y Combinator[4] and received $11.2M in funding from Andreessen Horowitz in July 2012.Meteor raised an additional $20M in Series B funding from Matrix Partners, Andreessen Horowitz and Trinity Ventures.It intends to become profitable by offering Galaxy, an enterprise-grade hosting environment for Meteor applications.",
+      "details":"Meteor, or MeteorJS, is a partly proprietary, mostly free and open-source isomorphic JavaScript web framework written using Node.js. Meteor allows for rap_id prototyping and produces cross-platform (Andro_id, iOS, Web) code. The server-s_ide MongoDB program is the only proprietary component of Meteor and is part of the Meteor download bundle. It is possible to use Meteor without using the server-s_ide MongoDB. It uses the Distributed Data Protocol and a publish–subscribe pattern to automatically propagate data changes to clients without requiring the developer to write any synchronization code. On the client, Meteor can be used with any popular front-end JS framework, Vue, React, Svelte, Angular, or Blaze.Meteor is developed by Meteor Software. The startup was incubated by Y Combinator[4] and received $11.2M in funding from Andreessen Horowitz in July 2012.Meteor raised an additional $20M in Series B funding from Matrix Partners, Andreessen Horowitz and Trinity Ventures.It intends to become profitable by offering Galaxy, an enterprise-grade hosting environment for Meteor applications.",
       "price":"$14"
     },
     {
-      "id": "08",
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "category_id": "01",
       "name": "Aurelia",
       "image_url": "https://aurelia.io/styles/images/aurelia-icon.svg",
       "instructor":"Samy Eduonix",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/55217520_f401.jpg",
-      "details":"Aurelia's standards-based, unobtrusive style makes it the only framework that empowers you to build components using vanilla JavaScript or TypeScript. If you know modern JS and HTML, there's little more to learn to build even the most complex apps.Aurelia's standards-based, unobtrusive style makes it the only framework that empowers you to build components using vanilla JavaScript or TypeScript. If you know modern JS and HTML, there's little more to learn to build even the most complex apps.At the core of Aurelia is a high-performance, reactive system, capable of batching DOM updates in a way that leaves other frameworks, and their virtual DOMs, in the dust. Experience consistent, scalable performance, no matter how complex your UI.State management, internationalization and validation - all official plugins from the core team. CLI, VS Code plugin, and Chrome debugger - optional tools to enhance development. Aurelia is not just a framework, but a powerful platform and ecosystem, designed to ensure your rapid success.",
+      "details":"Aurelia's standards-based, unobtrusive style makes it the only framework that empowers you to build components using vanilla JavaScript or TypeScript. If you know modern JS and HTML, there's little more to learn to build even the most complex apps.Aurelia's standards-based, unobtrusive style makes it the only framework that empowers you to build components using vanilla JavaScript or TypeScript. If you know modern JS and HTML, there's little more to learn to build even the most complex apps.At the core of Aurelia is a high-performance, reactive system, capable of batching DOM updates in a way that leaves other frameworks, and their virtual DOMs, in the dust. Experience consistent, scalable performance, no matter how complex your UI.State management, internationalization and val_idation - all official plugins from the core team. CLI, VS Code plugin, and Chrome debugger - optional tools to enhance development. Aurelia is not just a framework, but a powerful platform and ecosystem, designed to ensure your rap_id success.",
       "price":"$14"
     },
     {
-      "id": "09",
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "category_id": "01",
       "name": "Next.js",
       "image_url": "https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png",
       "instructor":"Maximilian Schwarzmüller",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
-      "details":"Next.js is a React framework that enables several extra features, including server-side rendering and generating static websites.React is a JavaScript library that is traditionally used to build web applications rendered in the client's browser with JavaScript.Developers recognize several problems with this strategy however, such as not catering to users who do not have access to JavaScript or have disabled it, potential security issues, significantly extended page loading times, and harm to the site's overall search engine optimization.Frameworks such as Next.js sidestep these problems by allowing some or all of the website to be rendered on the server-side before being sent to the client.Next.js is one of the most popular frameworks for React.It is one of several recommended toolchains available when starting a new app, all of which provide a layer of abstraction to aid in common tasks.Next.js requires Node.js and can be initialized using Node Package Manager.Google has contributed to the Next.js project, contributing 43 pull requests in 2019, where they helped in pruning unused JavaScript, reducing loading time, and adding improved metrics.As of March 2022, the framework is used by many large websites, including Walmart, Apple, Nike, Netflix, TikTok, Uber, Lyft, and Starbucks.In early 2020, it was announced that Vercel had secured twenty-one million dollars in Series A funding to support improvements to the software.The framework's original author, Guillermo Rauch, is currently the CEO of Vercel, and the project's lead maintainer is Tim Neutkens.",
+      "details":"Next.js is a React framework that enables several extra features, including server-s_ide rendering and generating static websites.React is a JavaScript library that is traditionally used to build web applications rendered in the client's browser with JavaScript.Developers recognize several problems with this strategy however, such as not catering to users who do not have access to JavaScript or have disabled it, potential security issues, significantly extended page loading times, and harm to the site's overall search engine optimization.Frameworks such as Next.js s_idestep these problems by allowing some or all of the website to be rendered on the server-s_ide before being sent to the client.Next.js is one of the most popular frameworks for React.It is one of several recommended toolchains available when starting a new app, all of which prov_ide a layer of abstraction to a_id in common tasks.Next.js requires Node.js and can be initialized using Node Package Manager.Google has contributed to the Next.js project, contributing 43 pull requests in 2019, where they helped in pruning unused JavaScript, reducing loading time, and adding improved metrics.As of March 2022, the framework is used by many large websites, including Walmart, Apple, Nike, Netflix, TikTok, Uber, Lyft, and Starbucks.In early 2020, it was announced that Vercel had secured twenty-one million dollars in Series A funding to support improvements to the software.The framework's original author, Guillermo Rauch, is currently the CEO of Vercel, and the project's lead maintainer is Tim Neutkens.",
       "price":"$14"
     },
     {
-      "id": "10",
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "category_id": "01",
       "name": "Redux",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/800px-Redux_Logo.png?20180429170339",
       "instructor":"Maximilian Schwarzmüller",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
-      "details":"Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to (and inspired by) Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark. Since mid-2016, the primary maintainers are Mark Erikson and Tim Dorr.Redux is a small library with a simple, limited API designed to be a predictable container for application state. It operates in a similar fashion to a reducing function, a functional programming concept.Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps.",
+      "details":"Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to (and inspired by) Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark. Since m_id-2016, the primary maintainers are Mark Erikson and Tim Dorr.Redux is a small library with a simple, limited API designed to be a predictable container for application state. It operates in a similar fashion to a reducing function, a functional programming concept.Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps.",
       "price":"$14"
     },
     {
-      "id": "11",
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "category_id": "02",
       "name": "MongoDB",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png",
-      "instructor":"Stephen Grider",
+      "instructor":"Stephen Gr_ider",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
-      "details":"MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions.10gen software company began developing MongoDB in 2007 as a component of a planned platform as a service product. In 2009, the company shifted to an open-source development model, with the company offering commercial support and other services. In 2013, 10gen changed its name to MongoDB Inc.On October 20, 2017, MongoDB became a publicly traded company, listed on NASDAQ as MDB with an IPO price of $24 per share.MongoDB is a global company with US headquarters in New York City and International headquarters in Dublin.On October 30, 2019, MongoDB teamed up with Alibaba Cloud, who will offer its customers a MongoDB-as-a-service solution. Customers can use the managed offering from BABA's global data centers",
+      "details":"MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server S_ide Public License (SSPL) which is deemed non-free by several distributions.10gen software company began developing MongoDB in 2007 as a component of a planned platform as a service product. In 2009, the company shifted to an open-source development model, with the company offering commercial support and other services. In 2013, 10gen changed its name to MongoDB Inc.On October 20, 2017, MongoDB became a publicly traded company, listed on NASDAQ as MDB with an IPO price of $24 per share.MongoDB is a global company with US headquarters in New York City and International headquarters in Dublin.On October 30, 2019, MongoDB teamed up with Alibaba Cloud, who will offer its customers a MongoDB-as-a-service solution. Customers can use the managed offering from BABA's global data centers",
       "price":"$14"
     },
     {
-      "id": "12",
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "category_id": "01",
       "name": "Node.Js",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png",
       "instructor":"Anthony Alicea",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/2467626_f2e0_3.jpg",
-      "details":"NodeJS is a rapidy growing web server technology, and Node developers are among the highest paid in the industry. Knowing NodeJS well will get you a job or improve your current one by enabling you to build high quality, robust web applications.In this course you will gain a deep understanding of Node, learn how NodeJS works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems.In this course we'll look at how the C++ written V8 Javascript engine works and how NodeJS uses it to expand the abilities of Javascript. You'll learn how to structure your code for reuse and to be easier to understand, manage, and expand using modules and understand how modules really work.",
+      "details":"NodeJS is a rap_idy growing web server technology, and Node developers are among the highest pa_id in the industry. Knowing NodeJS well will get you a job or improve your current one by enabling you to build high quality, robust web applications.In this course you will gain a deep understanding of Node, learn how NodeJS works under the hood, and how that knowledge helps you avo_id common pitfalls and drastically improve your ability to debug problems.In this course we'll look at how the C++ written V8 Javascript engine works and how NodeJS uses it to expand the abilities of Javascript. You'll learn how to structure your code for reuse and to be easier to understand, manage, and expand using modules and understand how modules really work.",
       "price":"$14"
     },
     {
-      "id": "13",
+      "_id": "cd2b53655737cc4077542baea9f8f75d",
+      "category_id": "07",
       "name": "Python",
       "image_url": "https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png",
       "instructor":"Qaifi Khan",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/47000136_b4e9_2.jpg",
-      "details":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected.It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.Python consistently ranks as one of the most popular programming languages.",
+      "details":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected.It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library.Gu_ido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.Python consistently ranks as one of the most popular programming languages.",
       "price":"$14"
     },
     {
-      "id": "14",
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "category_id": "01",
       "name": "Typescript",
       "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/typescript.jpg",
       "instructor":"Anthony Alicea",
@@ -125,7 +139,8 @@
       "price":"$14"
     },
     {
-      "id": "15",
+      "_id": "7c4dfea0fafddc813673282a428429b7",
+      "category_id": "06",
       "name": "PHP",
       "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/php.jpg",
       "instructor":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
@@ -134,16 +149,18 @@
       "price":"$14"
     },
     {
-      "id": "16",
+      "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+      "category_id": "04",
       "name": "C#",
       "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/C-1.png",
       "instructor":"Qaifi Khan",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/47000136_b4e9_2.jpg",
-      "details":"C# (C Sharp) is an object-oriented programming language developed by Microsoft. It was originally developed for the .NET framework to build Windows applications. Today it is extensively used in backend development, game development, and mobile app development. It can be used not just on Windows, but also on Android, Linux, and iOS platforms-making it one of the best website coding languages in 2022.It has a strong memory backup facility and avoids memory leaks.It is equipped with a rich set of libraries enabling faster development.It is the only language used by Windows Presentation Foundation (WPF)",
+      "details":"C# (C Sharp) is an object-oriented programming language developed by Microsoft. It was originally developed for the .NET framework to build Windows applications. Today it is extensively used in backend development, game development, and mobile app development. It can be used not just on Windows, but also on Andro_id, Linux, and iOS platforms-making it one of the best website coding languages in 2022.It has a strong memory backup facility and avo_ids memory leaks.It is equipped with a rich set of libraries enabling faster development.It is the only language used by Windows Presentation Foundation (WPF)",
       "price":"$14"
     },
     {
-      "id": "17",
+      "_id": "df11ff9feefc37613cc3a4486ce02151",
+      "category_id": "05",
       "name": "Ruby Rails",
       "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/ruby-rails-1.png",
       "instructor":"Anthony Alicea",
@@ -152,25 +169,18 @@
       "price":"$14"
     },
     {
-      "id": "18",
+      "_id": "919db97c34e0778b387dd40cdfa08130",
+      "category_id": "01",
       "name": "Golang",
       "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/golang.png",
       "instructor":"Maximilian Schwarzmüller",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
-      "details":"Golang or Go is an open-source programming language developed at Google in 2007. It is similar to C in syntax and allows for the development of efficient and secure web applications. Go is ideal for network programming, developing data pipelines, and machine learning packages.It is equipped with inbuilt testing tools,supports multithreading and can execute several processes concurrently.It has excellent memory safety features like garbage collection for automatic memory management",
+      "details":"Golang or Go is an open-source programming language developed at Google in 2007. It is similar to C in syntax and allows for the development of efficient and secure web applications. Go is _ideal for network programming, developing data pipelines, and machine learning packages.It is equipped with inbuilt testing tools,supports multithreading and can execute several processes concurrently.It has excellent memory safety features like garbage collection for automatic memory management",
       "price":"$14"
     },
     {
-      "id": "19",
-      "name": "Scala",
-      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2022/10/scala.png",
-      "instructor":"Anthony Alicea",
-      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/2467626_f2e0_3.jpg",
-      "details":"Scala is grouped in the Java family and is one of the latest additions to it. It has all the features of Java plus some additions which help to overcome some of the cons of Java. Scala is a great choice for developing data analytics solutions.Supports concurrent programming and execution of procedures in parallel.It has great IDE support.Highly functional programming with better code quality",
-      "price":"$14"
-    },
-    {
-      "id": "20",
+      "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+      "category_id": "05",
       "name": "Objective C",
       "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/objective-c.png",
       "instructor":"Qaifi Khan",
@@ -179,7 +189,24 @@
       "price":"$14"
     },
     {
-      "id": "21",
-      "name": "All"
+      "_id": "acb9b6785b62698fc6130db7615965e1",
+      "category_id": "02",
+      "name": "MySQL",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png",
+      "instructor":"Stephen Gr_ider",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
+      "details":"MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server S_ide Public License (SSPL) which is deemed non-free by several distributions.10gen software company began developing MongoDB in 2007 as a component of a planned platform as a service product. In 2009, the company shifted to an open-source development model, with the company offering commercial support and other services. In 2013, 10gen changed its name to MongoDB Inc.On October 20, 2017, MongoDB became a publicly traded company, listed on NASDAQ as MDB with an IPO price of $24 per share.MongoDB is a global company with US headquarters in New York City and International headquarters in Dublin.On October 30, 2019, MongoDB teamed up with Alibaba Cloud, who will offer its customers a MongoDB-as-a-service solution. Customers can use the managed offering from BABA's global data centers",
+      "price":"$14"
+    },
+    {
+      "_id": "be44c843d61859cc0b87cae85c55f9db",
+      "category_id": "06",
+      "name": "Laravel",
+      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/php.jpg",
+      "instructor":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+      "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+      "details":"PHP or Hypertext Preprocessor is an open-source scripting language used for backend development. It is mostly used for developing dynamic, data-heavy websites and is an interpreted language. It is one of the most popular web page languages, and frameworks like Drupal and WordPress make use of PHP.It is supported by many third-party extensions like .NET, MySQL, and Apache.It can output images, PDF, text, animations, and HTML.It is compatible with cloud services.",
+      "price":"$14"
     }
+    
   ]

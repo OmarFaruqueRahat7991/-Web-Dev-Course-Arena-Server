@@ -5,50 +5,31 @@
     },
     {
       "id": "02",
-      "name": "ReactJS"
+      "name": "Database"
     },
     {
       "id": "03",
-      "name": "Angular"
-    },
-    {
-      "id": "04",
-      "name": "Vue.js"
-    },
-    {
-      "id": "05",
       "name": "Git"
     },
     {
+      "id": "04",
+      "name": "C#"
+    },
+    {
+      "id": "05",
+      "name": "C"
+    },
+    {
       "id": "06",
-      "name": "Ember.js "
+      "name": "PHP"
     },
     {
       "id": "07",
-      "name": "Meteor"
+      "name": "Python"
     },
     {
       "id": "08",
-      "name": "Mithril"
-    },
-    {
-      "id": "09",
-      "name": "Next.js"
-    },
-    {
-      "id": "10",
-      "name": "Redux"
-    },
-    {
-      "id": "11",
-      "name": "MongoDB"
-    },
-    {
-      "id": "12",
-      "name": "Node.Js"
-    },
-    {
-      "id": "13",
-      "name": "All Courses"
+      "name": "All"
     }
+    
   ]
