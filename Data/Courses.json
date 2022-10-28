@@ -143,7 +143,7 @@
       "category_id": "06",
       "name": "PHP",
       "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/php.jpg",
-      "instructor":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+      "instructor":"Stephen Gr_ider",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
       "details":"PHP or Hypertext Preprocessor is an open-source scripting language used for backend development. It is mostly used for developing dynamic, data-heavy websites and is an interpreted language. It is one of the most popular web page languages, and frameworks like Drupal and WordPress make use of PHP.It is supported by many third-party extensions like .NET, MySQL, and Apache.It can output images, PDF, text, animations, and HTML.It is compatible with cloud services.",
       "price":"$14"
@@ -192,7 +192,7 @@
       "_id": "acb9b6785b62698fc6130db7615965e1",
       "category_id": "02",
       "name": "MySQL",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png",
+      "image_url": "https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo-500x313.png",
       "instructor":"Stephen Gr_ider",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
       "details":"MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server S_ide Public License (SSPL) which is deemed non-free by several distributions.10gen software company began developing MongoDB in 2007 as a component of a planned platform as a service product. In 2009, the company shifted to an open-source development model, with the company offering commercial support and other services. In 2013, 10gen changed its name to MongoDB Inc.On October 20, 2017, MongoDB became a publicly traded company, listed on NASDAQ as MDB with an IPO price of $24 per share.MongoDB is a global company with US headquarters in New York City and International headquarters in Dublin.On October 30, 2019, MongoDB teamed up with Alibaba Cloud, who will offer its customers a MongoDB-as-a-service solution. Customers can use the managed offering from BABA's global data centers",
@@ -202,8 +202,8 @@
       "_id": "be44c843d61859cc0b87cae85c55f9db",
       "category_id": "06",
       "name": "Laravel",
-      "image_url": "https://www.globalmediainsight.com/blog/wp-content/uploads/2021/12/php.jpg",
-      "instructor":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+      "image_url": "https://laravelnews.s3.amazonaws.com/images/laravel-featured.png?w=1366&h=683&q=90&auto=format&fit=crop",
+      "instructor":"Stephen Gr_ider",
       "instructor_img_url":"https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
       "details":"PHP or Hypertext Preprocessor is an open-source scripting language used for backend development. It is mostly used for developing dynamic, data-heavy websites and is an interpreted language. It is one of the most popular web page languages, and frameworks like Drupal and WordPress make use of PHP.It is supported by many third-party extensions like .NET, MySQL, and Apache.It can output images, PDF, text, animations, and HTML.It is compatible with cloud services.",
       "price":"$14"

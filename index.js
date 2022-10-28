@@ -34,6 +34,11 @@ app.get("/course/:id", (req, res) => {
   const selectedCourse = courses.find((course) => course._id === id);
   res.send(selectedCourse);
 });
+app.get("/singlecourse/:id", (req, res) => {
+  const id = req.params.id;
+  const singlecourse = courses.find((course) => course._id === id);
+  res.send(singlecourse);
+});
 
 app.listen(port, () => {
   console.log(`Course API Running ${port}`);
